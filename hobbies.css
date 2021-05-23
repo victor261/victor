@@ -1,0 +1,41 @@
+h1{
+font-size: 70px;
+text-align: center;
+
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 700px;
+}
+h2{
+  
+position: static;
+   background-color: #2bbfe0;
+     color: white;
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     transition: padding-left 2s, padding-bottom 2s, padding-right 2s, padding-top 2s, transform 2s, background-color 2s;
+     margin-left: 650px;
+
+}
+h2:hover{
+  background-color: green;
+padding-left: 70px;
+padding-bottom: 70px;
+padding-top: 70px;
+padding-right: 70px;
+transform: rotate(360deg);
+
+}
+.hei{
+  font-size: 40px;
+  text-align: center;
+}
